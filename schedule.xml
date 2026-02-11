@@ -1,14 +1,14 @@
 <schedule>
     <lesson>
         <name>Бел Яз</name>
-        <homework>номер 287</homework>
+        <homework>номер 299</homework>
     </lesson>
     <lesson>
         <name>матем</name>
         <homework>$ 4-5, с 212  номер 388 б</homework>
     </lesson>
     <lesson>
-        <name>географ</name>
+        <name>география</name>
         <homework>Параграф 15 стр 98 глоб 1,2,3</homework>
     </lesson>
     <lesson>
@@ -21,6 +21,6 @@
     </lesson>
     <lesson>
         <name>Рус Яз</name>
-        <homework></homework>
+        <homework>упр 339, 332 без разборов</homework>
     </lesson>
 </schedule>
